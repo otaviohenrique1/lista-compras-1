@@ -1,1 +1,2 @@
-# lista-compras-1
+# Lista compras
+Feito com PHP
